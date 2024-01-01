@@ -4,6 +4,9 @@
 - link:
     ~/.config/rofi:
         path: dotfiles/rofi
+    ~/.config/nvim:
+        path: dotfiles/nvim
+        force: true
     ~/.zshrc:
         path: dotfiles/.zshrc
         force: true
