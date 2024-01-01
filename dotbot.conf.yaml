@@ -1,0 +1,15 @@
+- defaults:
+    link:
+      relink: true
+- link:
+    ~/.config/rofi:
+        path: dotfiles/rofi
+    ~/.zshrc:
+        path: dotfiles/.zshrc
+        force: true
+    ~/.p10k.zsh:
+        path: dotfiles/.p10k.zsh
+        force: true
+    ~/.gitconfig:
+        path: dotfiles/.gitconfig
+
