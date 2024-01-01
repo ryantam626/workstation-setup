@@ -15,6 +15,9 @@
         force: true
     ~/.gitconfig:
         path: dotfiles/.gitconfig
+    ~/.config/xfce4/panel:
+        path: dotfiles/xfce4/panel
+        force: true
     ~/.config/xfce4/xfconf:
         path: dotfiles/xfce4/xfconf
         force: true

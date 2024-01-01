@@ -1,0 +1,6 @@
+Command=/home/ryan/workstation-setup/scripts/datetime.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=1000
+Font=Droid Sans Mono for Powerline 10
+
