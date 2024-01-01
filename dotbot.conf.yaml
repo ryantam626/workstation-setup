@@ -15,3 +15,6 @@
     ~/.config/xfce4/xfconf:
         path: dotfiles/xfce4/xfconf
         force: true
+    ~/.config/kitty:
+        path: dotfiles/kitty
+        force: true
